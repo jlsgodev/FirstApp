@@ -30,3 +30,8 @@ Este projeto é uma atividade prática da disciplina **Programação para Dispos
 
 ## ✅ Observação
 Este projeto é apenas para fins educacionais, explorando elementos de interface gráfica no Android.
+
+## Screenshot
+
+![App Screenshot](assets/Screenshot_20251123_170528_com.example.firstapp.jpg)
+
